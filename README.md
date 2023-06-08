@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aaryan Chipkar</h1>
 <h3 align="center">A Cybersecurity Enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-- 🔭 I’m currently working on **Iot Based Smart Helmet**
+- 🔭 I’m currently working on <b>Iot Based Smart Helmet</b>
 
 - 🌱 I’m currently learning **Backend development and its connectivity**
 
