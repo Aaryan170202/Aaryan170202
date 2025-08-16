@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aaryan Chipkar</h1>
 <h3 align="center">A Java Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-- 🔭 I’m currently working on <b>Personal Budget Tracker</b>
+- 🔭 I’m currently working on <b>Personal Budget Tracker & Pine2Ex</b>
 
 - 🌱 I’m currently learning **Spring Boot, AI & Cloud**
 
