@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Skill monitor: core stacks Java and Spring Boot, Python and Flask, LLMs and agents, React Native, SQL and PostgreSQL, AWS and Docker. Running processes: nocaps, amore-agents, mobile-release, system-design. Sleep: killed.">
+<title>aaryan.sys — skill monitor</title>
+<defs>
+  <linearGradient id="swin" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/>
+  </linearGradient>
+  <linearGradient id="sacc" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00ff99"/><stop offset="100%" stop-color="#58a6ff"/>
+  </linearGradient>
+  <filter id="sshadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#000" flood-opacity=".45"/>
+  </filter>
+  <style>
+    .mono{font-family:ui-monospace,'Cascadia Code','JetBrains Mono','Fira Code',Consolas,'Liberation Mono',Menlo,monospace}
+    .dim{fill:#8b949e}.txt{fill:#c9d1d9}
+    .pop{animation:pop .16s linear both}
+    @keyframes pop{from{opacity:0}}
+    .fill{animation:load .9s cubic-bezier(.25,.7,.35,1) both}
+    @keyframes load{from{width:0}}
+    .blink{animation:blink 1s steps(1,end) infinite}
+    @keyframes blink{0%,55%{opacity:1}56%,100%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+</defs>
+
+<rect x="10" y="10" width="1180" height="310" rx="16" fill="url(#swin)" stroke="#30363d" stroke-width="1.5" filter="url(#sshadow)"/>
+<line x1="10" y1="58" x2="1190" y2="58" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="40" cy="34" r="6.5" fill="#ff5f57"/>
+<circle cx="64" cy="34" r="6.5" fill="#febc2e"/>
+<circle cx="88" cy="34" r="6.5" fill="#28c840"/>
+<text x="600" y="39" text-anchor="middle" class="mono dim" font-size="14">aaryan@sys: ~ $ btop --skills</text>
+
+<line x1="596" y1="74" x2="596" y2="284" stroke="#21262d" stroke-width="1.5"/>
+
+<!-- CORE LOAD -->
+<text x="44" y="90" class="mono dim" font-size="11.5" letter-spacing="2">CORE LOAD</text>
+<g class="mono" font-size="13">
+  <g class="pop" style="animation-delay:.1s">
+    <text x="44" y="122" class="txt">java · spring-boot</text>
+    <rect x="228" y="112" width="286" height="10" rx="5" fill="#21262d"/>
+    <rect class="fill" style="animation-delay:.25s" x="228" y="112" width="272" height="10" rx="5" fill="url(#sacc)"/>
+    <text x="524" y="121" font-size="11" class="dim">2y prod</text>
+  </g>
+  <g class="pop" style="animation-delay:.2s">
+    <text x="44" y="154" class="txt">python · flask</text>
+    <rect x="228" y="144" width="286" height="10" rx="5" fill="#21262d"/>
+    <rect class="fill" style="animation-delay:.35s" x="228" y="144" width="258" height="10" rx="5" fill="url(#sacc)"/>
+    <text x="524" y="153" font-size="11" class="dim">daily</text>
+  </g>
+  <g class="pop" style="animation-delay:.3s">
+    <text x="44" y="186" class="txt">llms · ai agents</text>
+    <rect x="228" y="176" width="286" height="10" rx="5" fill="#21262d"/>
+    <rect class="fill" style="animation-delay:.45s" x="228" y="176" width="266" height="10" rx="5" fill="url(#sacc)"/>
+    <text x="524" y="185" font-size="11" class="dim">core</text>
+  </g>
+  <g class="pop" style="animation-delay:.4s">
+    <text x="44" y="218" class="txt">react-native</text>
+    <rect x="228" y="208" width="286" height="10" rx="5" fill="#21262d"/>
+    <rect class="fill" style="animation-delay:.55s" x="228" y="208" width="238" height="10" rx="5" fill="url(#sacc)"/>
+    <text x="524" y="217" font-size="11" class="dim">shipping</text>
+  </g>
+  <g class="pop" style="animation-delay:.5s">
+    <text x="44" y="250" class="txt">sql · postgres</text>
+    <rect x="228" y="240" width="286" height="10" rx="5" fill="#21262d"/>
+    <rect class="fill" style="animation-delay:.65s" x="228" y="240" width="252" height="10" rx="5" fill="url(#sacc)"/>
+    <text x="524" y="249" font-size="11" class="dim">fluent</text>
+  </g>
+  <g class="pop" style="animation-delay:.6s">
+    <text x="44" y="282" class="txt">aws · docker</text>
+    <rect x="228" y="272" width="286" height="10" rx="5" fill="#21262d"/>
+    <rect class="fill" style="animation-delay:.75s" x="228" y="272" width="230" height="10" rx="5" fill="url(#sacc)"/>
+    <text x="524" y="281" font-size="11" class="dim">deployed</text>
+  </g>
+</g>
+
+<!-- PROCESSES -->
+<text x="632" y="90" class="mono dim" font-size="11.5" letter-spacing="2">PROCESSES</text>
+<g class="mono" font-size="13">
+  <text x="632" y="118" class="dim" font-size="11.5">PID</text>
+  <text x="700" y="118" class="dim" font-size="11.5">NAME</text>
+  <text x="1000" y="118" class="dim" font-size="11.5">STATE</text>
+
+  <g class="pop" style="animation-delay:.2s">
+    <text x="632" y="148" class="dim">001</text>
+    <text x="700" y="148" class="txt">nocaps</text>
+    <text x="1000" y="148" fill="#00ff99">● running</text>
+  </g>
+  <g class="pop" style="animation-delay:.35s">
+    <text x="632" y="176" class="dim">002</text>
+    <text x="700" y="176" class="txt">amore-agents</text>
+    <text x="1000" y="176" fill="#00ff99">● running</text>
+  </g>
+  <g class="pop" style="animation-delay:.5s">
+    <text x="632" y="204" class="dim">003</text>
+    <text x="700" y="204" class="txt">mobile-release</text>
+    <text x="1000" y="204" fill="#febc2e">◌ shipping</text>
+  </g>
+  <g class="pop" style="animation-delay:.65s">
+    <text x="632" y="232" class="dim">007</text>
+    <text x="700" y="232" class="txt">system-design · dsa</text>
+    <text x="1000" y="232" fill="#58a6ff">↻ scheduled</text>
+  </g>
+  <g class="pop" style="animation-delay:.8s">
+    <text x="632" y="260" class="dim">042</text>
+    <text x="700" y="260" class="txt">sleep</text>
+    <text x="1000" y="260" fill="#ff5f57">✖ killed</text>
+  </g>
+</g>
+
+<!-- footer -->
+<text class="pop mono" style="animation-delay:1s" x="632" y="292" font-size="11.5" fill="#8b949e">zombies: 0 · load avg: high, by choice · uptime: 2y+</text>
+<rect class="blink" x="1000" y="281" width="7" height="13" fill="#00ff99"/>
+</svg>
