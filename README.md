@@ -1,434 +1,125 @@
+
+# AARYAN // SYSTEM
+
+> **Building AI that understands people.**
+
+> **Note:** This is Version 1 of the premium GitHub profile README. It is intentionally structured and ready for future SVG assets.
+
+---
+
 <div align="center">
 
-# AARYAN OS
+# AARYAN // SYSTEM
 
-### Booting Developer Environment...
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Backend+Developer;Founder+of+Nocaps;Building+AI+that+Understands+Humans" />
+AI Engineer • Backend Developer • Founder @ Nocaps
 
 </div>
 
 ---
 
+## BOOT
+
 ```text
-█████████████████████████████████████████████████████
+Initializing Runtime...
+✓ Java
+✓ Spring Boot
+✓ AI Engine
+✓ Backend Services
+✓ Mobile Platform
+✓ GitHub
+✓ Nocaps
 
-        AARYAN OS v5.0
-
-        SYSTEM ONLINE
-
-█████████████████████████████████████████████████████
-
-Boot sequence initiated...
-
-✓ Loading Java Runtime
-
-✓ Loading Spring Boot
-
-✓ Loading AI Engine
-
-✓ Loading Cloud Services
-
-✓ Connecting to GitHub
-
-✓ Initializing Nocaps
-
-SYSTEM READY
+SYSTEM ONLINE
 ```
 
 ---
 
-# guest@aaryan:~$ whoami
+## WHOAMI
 
 ```yaml
-Name      : Aaryan Chipkar
-
-Role      : AI Engineer
-
-Current   : Building Nocaps
-
-Focus     : AI Agents
-             Backend Systems
-             Mobile Apps
-             Human Compatibility AI
-
-Experience: Java
-            Spring Boot
-            Python
-            SQL
-            Firebase
-            Supabase
+Name: Aaryan Chipkar
+Role: AI Engineer
+Focus:
+  - AI Agents
+  - Backend Engineering
+  - Human Behaviour AI
+  - Mobile Apps
+Current Project:
+  - Nocaps
 ```
 
 ---
 
-# About Me
+## ABOUT
 
-Hi 👋
+I'm an AI Engineer passionate about building products that solve real human problems.
 
-I'm **Aaryan**, an AI Engineer passionate about building products that solve real human problems.
-
-Instead of chasing trends, I enjoy building products that people actually use.
-
-Currently I'm building **Nocaps**, an AI-native compatibility platform that understands people before introducing them.
-
-I enjoy combining
-
-- Backend Engineering
-- AI Agents
-- Psychology
-- Mobile Development
-
-to create meaningful software.
+Currently building **Nocaps**, an AI-native compatibility platform focused on meaningful human connections using AI, backend engineering, and behavioral analysis.
 
 ---
 
-# Current Mission
+## CURRENT MISSION
 
-```text
-STATUS : BUILDING
-
-PROJECT :
-Nocaps
-
-MISSION :
-Reduce loneliness using AI
-
-STATE :
-Development
-
-LOCATION :
-India
-
-MODE :
-Founder
-```
+- 🚀 Build Nocaps
+- 🤖 AI Agents
+- ☕ Spring Boot
+- 📱 React Native
+- ☁️ Cloud & Scalable Backend
 
 ---
 
-# System Specs
+## TECH STACK
 
-| Module | Status |
-|---------|--------|
-| AI Engineering | ACTIVE |
-| Backend Development | ACTIVE |
-| Mobile Development | ACTIVE |
-| Startup Building | ACTIVE |
-| Learning | NEVER STOPS |
+### Languages
+Java • Python • JavaScript • SQL • Kotlin
 
----
+### Backend
+Spring Boot • Spring MVC • Hibernate • JPA • Flask • REST APIs
 
-# Philosophy
+### Databases
+PostgreSQL • MySQL • Firebase • Supabase
 
-> Great software isn't built by writing more code.
-
-> It's built by understanding people first.
+### Cloud & Tools
+AWS • Docker • Git • GitHub • Linux
 
 ---
 
-# Currently Working On
+## FEATURED PROJECTS
 
-🟢 Nocaps
+### 🟢 Nocaps
+AI-native compatibility platform focused on understanding people before matching them.
 
-🟢 AI Agents
+### 💰 Personal Budget Tracker
+Enterprise-style Spring Boot backend project.
 
-🟢 Spring Boot
-
-🟢 React Native
-
-🟢 Backend Architecture
-
-🟢 Human Behaviour AI
+### 🛡 Smart Helmet
+Published patent for intelligent rider safety.
 
 ---
 
-# AI ENGINE
+## EXPERIENCE
 
-```text
-┌────────────────────────────────────────────────────┐
-│                 AI ENGINE v2.3                     │
-├────────────────────────────────────────────────────┤
-│ STATUS        : ONLINE                             │
-│ PRIMARY MODEL : Grok / Qwen                        │
-│ DOMAIN        : Human Behaviour                    │
-│ PURPOSE       : Compatibility Analysis             │
-│ AGENTS        : AMORE                              │
-│ MATCH ENGINE  : ACTIVE                             │
-└────────────────────────────────────────────────────┘
-```
+**System Engineer — Tata Consultancy Services**
 
-Building AI that doesn't just answer questions...
-
-Building AI that understands **people**.
-
-Current focus:
-
-- Human Behaviour Analysis
-- Personality Modeling
-- AI Agents
-- Compatibility Prediction
-- Conversation Intelligence
-- Backend AI Systems
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,sql"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,hibernate,mysql,postgres"/>
-</p>
-
-## Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,firebase,androidstudio"/>
-</p>
-
-## AI & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
-</p>
-
----
-
-# Featured Projects
-
-## Nocaps
-
-> AI-native compatibility platform.
-
-Instead of matching photos...
-
-Nocaps matches **people**.
-
-### Built with
-
-Java
-
-Python
-
-Flask
-
-Firebase
-
-Supabase
-
-AI Agents
-
-LLMs
-
-Human Behaviour Analysis
-
-Current Status
-
-🟢 In Active Development
-
----
-
-## Personal Budget Tracker
-
-A scalable Spring Boot backend project built using
-
-✔ Spring Boot
-
-✔ Spring MVC
-
-✔ JDBC
-
-✔ MySQL
-
-✔ Authentication
-
-✔ REST APIs
-
-Future versions include
-
-• Hibernate
-
-• JPA
-
-• Docker
-
-• AWS
-
----
-
-## Smart Helmet
-
-Published patent project focused on improving rider safety through intelligent accident detection.
-
-Highlights
-
-- Patent Published
-- Embedded System
-- IoT
-- Safety Automation
-
----
-
-## Enterprise Experience
-
-### Tata Consultancy Services
-
-Working as a Backend Engineer building enterprise applications.
-
-Worked on
-
-- IVR Systems
-- Rate Calculator
 - Java Backend
 - REST APIs
 - SQL
+- Enterprise Applications
 - Production Support
 
 ---
 
-# Open Source Goals
+## SYSTEM MONITOR
 
-2026 Objectives
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryan170202&show_icons=true&theme=github_dark&hide_border=true)
 
-□ Contribute to Spring Boot
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan170202&layout=compact&theme=github_dark&hide_border=true)
 
-□ Publish AI libraries
-
-□ Release reusable backend templates
-
-□ Launch Nocaps Mobile App
-
-□ Build AI SDK
-
-□ Reach 1000+ GitHub Stars
+![Streak](https://streak-stats.demolab.com?user=Aaryan170202&theme=github-dark-blue&hide_border=true)
 
 ---
 
-# What I'm Learning
-
-```text
-███████████████████░░░░  AI Agents
-
-█████████████████░░░░░░ Spring Boot
-
-████████████████░░░░░░░ React Native
-
-███████████████░░░░░░░░ Cloud
-
-██████████████████░░░░░ System Design
-```
-
----
-
-# Development Workflow
-
-```text
-Idea
- │
- ▼
-
-Research
- │
- ▼
-
-Architecture
- │
- ▼
-
-Backend
- │
- ▼
-
-AI Integration
- │
- ▼
-
-Testing
- │
- ▼
-
-Deploy
- │
- ▼
-
-Improve
-```
-
----
-
-# Daily Motivation
-
-> Build products that solve problems.
-
-Not products that only look impressive.
-
----
-
-# SYSTEM MONITOR
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaryan170202&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan170202&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aaryan170202&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryan170202&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# ACHIEVEMENTS
-
-- 🧠 Founder of **Nocaps**
-- 🤖 Building AI-native compatibility systems
-- 📱 Android & iOS application development
-- ⚙️ Backend Engineer
-- ☕ Java & Spring Boot Developer
-- 📜 Published Patent
-- 🚀 Passionate about AI Agents & Human Behaviour
-
----
-
-# CURRENT OBJECTIVES
-
-```text
-[██████████░░░░░░░░] Launch Nocaps Mobile App
-
-[████████░░░░░░░░░░] Scale Backend Architecture
-
-[███████████░░░░░░] AI Compatibility Engine
-
-[███████░░░░░░░░░░░] Open Source Contributions
-
-[████████████░░░░░] Crack Top Product Company
-```
-
----
-
-# TERMINAL
+## TERMINAL
 
 ```bash
 guest@aaryan:~$ help
@@ -436,82 +127,42 @@ guest@aaryan:~$ help
 whoami
 projects
 skills
-experience
 contact
-linkedin
 portfolio
-github
-clear
+linkedin
 sudo hire aaryan
 ```
-
----
-
-```bash
-guest@aaryan:~$ projects
-
-> Nocaps
-> Personal Budget Tracker
-> Smart Helmet
-> Enterprise Backend Systems
-```
-
----
 
 ```bash
 guest@aaryan:~$ sudo hire aaryan
 
-Password:
+Access Granted.
 
-**************
-
-Access Granted
-
-Loading...
-
-Excellent Choice 🙂
+Welcome aboard.
 ```
 
 ---
 
-# CONNECT
+## CONNECT
 
-<p align="center">
-
-<a href="https://github.com/Aaryan170202">
-GitHub
-</a>
-
-•
-
-<a href="https://linkedin.com/in/aaryanchipkar">
-LinkedIn
-</a>
-
-•
-
-<a href="https://www.nocaps.in">
-Nocaps
-</a>
-
-</p>
+- GitHub: https://github.com/Aaryan170202
+- LinkedIn: https://linkedin.com/in/aaryanchipkar
+- Website: https://www.nocaps.in
 
 ---
 
-<div align="center">
+## PHILOSOPHY
 
-### Thanks for visiting.
+> Great software isn't built by writing more code.
+
+> It's built by understanding people first.
+
+---
 
 ```text
 SYSTEM LOGOUT
 
-Connection Closed
+Connection Closed.
 
-See you again.
-
-██████████████████████
+Thanks for visiting.
 ```
-
-⭐ If you like my work, consider following my journey.
-
-</div>
