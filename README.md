@@ -1,95 +1,117 @@
-
-
 <h1 align="center">Hi 👋, I'm Aaryan Chipkar</h1>
-<h3 align="center">A Java Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-- 🔭 I’m currently working on <b>Personal Budget Tracker & Pine2Ex</b>
 
-- 🌱 I’m currently learning **Spring Boot, AI & Cloud**
+<h3 align="center">
+AI & Backend Engineer | Java • Spring Boot • AI Agents | Building Nocaps 🚀
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aaryan170202?tab=repositories](https://github.com/Aaryan170202?tab=repositories)
-
-- 💬 Ask me about **Java, AWS, IoT**
-
-- 📫 How to reach me **aaryanchipkar17@gmail.com**
-
-- ⚡  **Code, Learn, Improve**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aaryan-chipkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryan-chipkar" height="30" width="40" /></a>
-<a href="https://kaggle.com/aaryanchipkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaryanchipkar" height="30" width="40" /></a>
-<a href="https://instagram.com/aaryan_17_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaryan_17_02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aaryanchipkar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryanchipkar17" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aaryan_17_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aaryan_17_02" height="30" width="40" /></a>
+<p align="center">
+I enjoy building scalable backend systems and AI-powered products that solve real-world problems.
+Currently working on AI-native applications, backend development, and cloud technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cloudfoundry/cloudfoundry-icon.svg" alt="cloud" width="40" height="40" style="margin-right: 15px;"/>
-  </a>
+---
+
+## 🚀 About Me
+
+- 💻 Backend Developer specializing in **Java, Spring Boot & REST APIs**
+- 🤖 Building **Nocaps**, an AI-native compatibility platform focused on meaningful human connections
+- 🌱 Currently exploring **LLMs, AI Agents, System Design, AWS & Scalable Architectures**
+- 🛠 Passionate about transforming ideas into production-ready applications
+- 📚 Always learning something new in AI, Backend Engineering and Cloud
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Building **Nocaps**
+- 🤖 AI Agents & LLM Applications
+- ☁️ AWS & Cloud Deployment
+- ⚡ Spring Boot Microservices
+- 📈 System Design & High Scale Backend
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-green?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![JDBC](https://img.shields.io/badge/JDBC-orange?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+### AI & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 Nocaps
+AI-native compatibility platform using conversational AI, behavioral analysis and intelligent matching.
+
+**Tech:** Python • AI • PostgreSQL • Firebase • REST APIs
+
+---
+
+### 💰 Personal Budget Tracker
+Production-style Spring Boot application featuring authentication, expense management, budgeting and analytics.
+
+**Tech:** Java • Spring Boot • MySQL
+
+---
+
+### 👨‍💼 Employee Management System
+Enterprise CRUD application built using Java, JDBC and MySQL.
+
+---
+
+### 🎵 Spotify Clone
+Responsive music streaming UI built using modern frontend technologies.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaryan170202&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan170202&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Aaryan170202&theme=tokyonight"/>
+</p>
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryan170202&show_icons=true&locale=en&layout=compact" alt="aaryan170202" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryan170202&show_icons=true&locale=en" alt="aaryan170202" /></p>
+## 🤝 Connect With Me
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan170202&" alt="aaryan170202" /></p>
--->
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaryan170202&show_icons=true&locale=en&layout=compact" alt="Aaryan's" /></p>
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Aaryan170202&show_icons=true&theme=radical" />
+- 🌐 Portfolio: **https://aaryan170202.github.io/portfolio/**
+- 💼 LinkedIn: https://linkedin.com/in/aaryan-chipkar
+- 📧 Email: aaryanchipkar17@gmail.com
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshalugade&show_icons=true&locale=en" alt="akankshalugade" /></p> -->
+---
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryan170202&" alt="Aaryan's" /></p>
+<p align="center">
+
+> *"Building products that solve real problems with AI and Backend Engineering."*
+
+⭐ Thanks for visiting my profile!
+
+</p>
