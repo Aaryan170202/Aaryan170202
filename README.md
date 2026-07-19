@@ -139,3 +139,231 @@ Founder
 🟢 Backend Architecture
 
 🟢 Human Behaviour AI
+
+---
+
+# AI ENGINE
+
+```text
+┌────────────────────────────────────────────────────┐
+│                 AI ENGINE v2.3                     │
+├────────────────────────────────────────────────────┤
+│ STATUS        : ONLINE                             │
+│ PRIMARY MODEL : Grok / Qwen                        │
+│ DOMAIN        : Human Behaviour                    │
+│ PURPOSE       : Compatibility Analysis             │
+│ AGENTS        : AMORE                              │
+│ MATCH ENGINE  : ACTIVE                             │
+└────────────────────────────────────────────────────┘
+```
+
+Building AI that doesn't just answer questions...
+
+Building AI that understands **people**.
+
+Current focus:
+
+- Human Behaviour Analysis
+- Personality Modeling
+- AI Agents
+- Compatibility Prediction
+- Conversation Intelligence
+- Backend AI Systems
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,sql"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs,hibernate,mysql,postgres"/>
+</p>
+
+## Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,firebase,androidstudio"/>
+</p>
+
+## AI & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+</p>
+
+---
+
+# Featured Projects
+
+## Nocaps
+
+> AI-native compatibility platform.
+
+Instead of matching photos...
+
+Nocaps matches **people**.
+
+### Built with
+
+Java
+
+Python
+
+Flask
+
+Firebase
+
+Supabase
+
+AI Agents
+
+LLMs
+
+Human Behaviour Analysis
+
+Current Status
+
+🟢 In Active Development
+
+---
+
+## Personal Budget Tracker
+
+A scalable Spring Boot backend project built using
+
+✔ Spring Boot
+
+✔ Spring MVC
+
+✔ JDBC
+
+✔ MySQL
+
+✔ Authentication
+
+✔ REST APIs
+
+Future versions include
+
+• Hibernate
+
+• JPA
+
+• Docker
+
+• AWS
+
+---
+
+## Smart Helmet
+
+Published patent project focused on improving rider safety through intelligent accident detection.
+
+Highlights
+
+- Patent Published
+- Embedded System
+- IoT
+- Safety Automation
+
+---
+
+## Enterprise Experience
+
+### Tata Consultancy Services
+
+Working as a Backend Engineer building enterprise applications.
+
+Worked on
+
+- IVR Systems
+- Rate Calculator
+- Java Backend
+- REST APIs
+- SQL
+- Production Support
+
+---
+
+# Open Source Goals
+
+2026 Objectives
+
+□ Contribute to Spring Boot
+
+□ Publish AI libraries
+
+□ Release reusable backend templates
+
+□ Launch Nocaps Mobile App
+
+□ Build AI SDK
+
+□ Reach 1000+ GitHub Stars
+
+---
+
+# What I'm Learning
+
+```text
+███████████████████░░░░  AI Agents
+
+█████████████████░░░░░░ Spring Boot
+
+████████████████░░░░░░░ React Native
+
+███████████████░░░░░░░░ Cloud
+
+██████████████████░░░░░ System Design
+```
+
+---
+
+# Development Workflow
+
+```text
+Idea
+ │
+ ▼
+
+Research
+ │
+ ▼
+
+Architecture
+ │
+ ▼
+
+Backend
+ │
+ ▼
+
+AI Integration
+ │
+ ▼
+
+Testing
+ │
+ ▼
+
+Deploy
+ │
+ ▼
+
+Improve
+```
+
+---
+
+# Daily Motivation
+
+> Build products that solve problems.
+
+Not products that only look impressive.
