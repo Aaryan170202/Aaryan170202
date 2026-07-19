@@ -1,106 +1,133 @@
-# AARYAN // SYSTEM
-
-> **Building AI that understands people.**
-
-> **Note:** This is Version 1 of the premium GitHub profile README. It is intentionally structured and ready for future SVG assets.
-
----
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Hero"/>
+</p>
 
 <div align="center">
 
-# AARYAN // SYSTEM
+# AI Engineer • Backend Developer • Founder @ Nocaps
 
-AI Engineer • Backend Developer • Founder @ Nocaps
+### Building AI that understands people.
 
 </div>
 
 ---
 
-## BOOT
+<p align="center">
+  <img src="./assets/whoami.svg" width="100%" alt="Who Am I"/>
+</p>
 
-```text
-Initializing Runtime...
-✓ Java
-✓ Spring Boot
-✓ AI Engine
-✓ Backend Services
-✓ Mobile Platform
-✓ GitHub
-✓ Nocaps
+I'm an AI Engineer passionate about building AI-powered products that solve real human problems.
 
-SYSTEM ONLINE
-```
+Currently building **Nocaps**, an AI-native compatibility platform focused on meaningful human connections through behavioural analysis and intelligent matching.
 
 ---
 
-## WHOAMI
+<p align="center">
+  <img src="./assets/mission.svg" width="100%" alt="Mission"/>
+</p>
 
-```yaml
-Name: Aaryan Chipkar
-Role: AI Engineer
-Focus:
-  - AI Agents
-  - Backend Engineering
-  - Human Behaviour AI
-  - Mobile Apps
-Current Project:
-  - Nocaps
-```
+## Current Focus
 
----
-
-## ABOUT
-
-I'm an AI Engineer passionate about building products that solve real human problems.
-
-Currently building **Nocaps**, an AI-native compatibility platform focused on meaningful human connections using AI, backend engineering, and behavioral analysis.
-
----
-
-## CURRENT MISSION
-
-- 🚀 Build Nocaps
 - 🤖 AI Agents
-- ☕ Spring Boot
+- ☕ Java & Spring Boot
 - 📱 React Native
-- ☁️ Cloud & Scalable Backend
+- 🧠 Human Behaviour AI
+- ☁️ Cloud Backend Architecture
 
 ---
 
-## TECH STACK
+<p align="center">
+  <img src="./assets/ai-engine.svg" width="100%" alt="AI Engine"/>
+</p>
+
+### AI Stack
+
+- Grok
+- Qwen
+- AI Agents
+- Behaviour Analysis
+- Compatibility Engine
+- Conversation Intelligence
+
+---
+
+# Featured Projects
+
+<p align="center">
+  <img src="./assets/project-nocaps.svg" width="100%" alt="Nocaps"/>
+</p>
+
+### Nocaps
+
+AI-native compatibility platform focused on understanding people before matching them.
+
+---
+
+<p align="center">
+  <img src="./assets/project-budget.svg" width="100%" alt="Budget Tracker"/>
+</p>
+
+### Personal Budget Tracker
+
+Enterprise-style backend application built with Spring Boot.
+
+---
+
+<p align="center">
+  <img src="./assets/project-patent.svg" width="100%" alt="Smart Helmet"/>
+</p>
+
+### Smart Helmet
+
+Published patent focused on intelligent rider safety.
+
+---
+
+# Tech Stack
 
 ### Languages
+
 Java • Python • JavaScript • SQL • Kotlin
 
 ### Backend
+
 Spring Boot • Spring MVC • Hibernate • JPA • Flask • REST APIs
 
-### Databases
+### Database
+
 PostgreSQL • MySQL • Firebase • Supabase
 
-### Cloud & Tools
+### Cloud
+
 AWS • Docker • Git • GitHub • Linux
 
 ---
 
-## FEATURED PROJECTS
+<p align="center">
+  <img src="./assets/system-monitor.svg" width="100%" alt="System Monitor"/>
+</p>
 
-### 🟢 Nocaps
-AI-native compatibility platform focused on understanding people before matching them.
+<p align="center">
 
-### 💰 Personal Budget Tracker
-Enterprise-style Spring Boot backend project.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaryan170202&show_icons=true&theme=github_dark&hide_border=true"/>
 
-### 🛡 Smart Helmet
-Published patent for intelligent rider safety.
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan170202&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aaryan170202&theme=github-dark-blue&hide_border=true"/>
+
+</p>
 
 ---
 
-## EXPERIENCE
+# Experience
 
 **System Engineer — Tata Consultancy Services**
 
-- Java Backend
+- Java Backend Development
 - REST APIs
 - SQL
 - Enterprise Applications
@@ -108,60 +135,18 @@ Published patent for intelligent rider safety.
 
 ---
 
-## SYSTEM MONITOR
+# Let's Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryan170202&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan170202&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/Aaryan170202">GitHub</a> •
+<a href="https://linkedin.com/in/aaryanchipkar">LinkedIn</a> •
+<a href="https://www.nocaps.in">Nocaps</a>
 
-![Streak](https://streak-stats.demolab.com?user=Aaryan170202&theme=github-dark-blue&hide_border=true)
-
----
-
-## TERMINAL
-
-```bash
-guest@aaryan:~$ help
-
-whoami
-projects
-skills
-contact
-portfolio
-linkedin
-sudo hire aaryan
-```
-
-```bash
-guest@aaryan:~$ sudo hire aaryan
-
-Access Granted.
-
-Welcome aboard.
-```
+</p>
 
 ---
 
-## CONNECT
-
-- GitHub: https://github.com/Aaryan170202
-- LinkedIn: https://linkedin.com/in/aaryanchipkar
-- Website: https://www.nocaps.in
-
----
-
-## PHILOSOPHY
-
-> Great software isn't built by writing more code.
-
-> It's built by understanding people first.
-
----
-
-```text
-SYSTEM LOGOUT
-
-Connection Closed.
-
-Thanks for visiting.
-```
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Footer"/>
+</p>
