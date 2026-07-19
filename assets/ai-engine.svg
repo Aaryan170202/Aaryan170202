@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<rect width="1200" height="320" fill="#0d1117"/>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#00ff99"/>
+    <stop offset="100%" stop-color="#66ffcc"/>
+  </linearGradient>
+</defs>
+<rect x="30" y="30" width="1140" height="260" rx="16" fill="none" stroke="#30363d"/>
+<text x="600" y="110" text-anchor="middle" fill="url(#g)"
+ font-family="JetBrains Mono, Consolas, monospace" font-size="42" font-weight="700">AI ENGINE</text>
+<text x="600" y="165" text-anchor="middle" fill="#ffffff"
+ font-family="JetBrains Mono, Consolas, monospace" font-size="22">Behaviour AI • Compatibility • Agents</text>
+<text x="600" y="230" text-anchor="middle" fill="#8b949e"
+ font-family="JetBrains Mono, Consolas, monospace" font-size="18">Building AI that understands people.</text>
+</svg>
