@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#161b22"/>
+</linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00ff99"/><stop offset="100%" stop-color="#58a6ff"/>
+</linearGradient>
+<style>
+.t{font-family:Segoe UI,Arial;fill:#fff}
+.s{font-family:Segoe UI,Arial;fill:#8b949e}
+</style>
+</defs>
+<rect width="1200" height="700" fill="#0d1117"/>
+<rect x="40" y="40" width="1120" height="620" rx="18" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+<line x1="40" y1="88" x2="1160" y2="88" stroke="#30363d"/>
+<circle cx="70" cy="64" r="7" fill="#ff5f57"/><circle cx="95" cy="64" r="7" fill="#febc2e"/><circle cx="120" cy="64" r="7" fill="#28c840"/>
+<text x="600" y="68" text-anchor="middle" class="s" font-size="18">FEATURED PROJECTS</text>
+
+<g>
+<rect x="90" y="130" width="470" height="200" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="120" y="170" class="t" font-size="30">❤️ Nocaps</text>
+<text x="120" y="205" class="s" font-size="18">AI-native compatibility platform</text>
+<text x="120" y="235" class="s" font-size="18">Behavioral intelligence • AI Agents</text>
+<rect x="120" y="270" width="120" height="34" rx="17" fill="url(#acc)"/>
+<text x="180" y="292" text-anchor="middle" class="t" font-size="14">Python</text>
+<rect x="250" y="270" width="90" height="34" rx="17" fill="#21262d"/><text x="295" y="292" text-anchor="middle" class="t" font-size="14">Flask</text>
+<rect x="350" y="270" width="120" height="34" rx="17" fill="#21262d"/><text x="410" y="292" text-anchor="middle" class="t" font-size="14">Supabase</text>
+</g>
+
+<g>
+<rect x="640" y="130" width="470" height="200" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="670" y="170" class="t" font-size="30">💰 Budget Tracker</text>
+<text x="670" y="205" class="s" font-size="18">Spring Boot Finance Backend</text>
+<text x="670" y="235" class="s" font-size="18">REST APIs • PostgreSQL</text>
+<rect x="670" y="270" width="100" height="34" rx="17" fill="url(#acc)"/><text x="720" y="292" text-anchor="middle" class="t" font-size="14">Java</text>
+<rect x="780" y="270" width="140" height="34" rx="17" fill="#21262d"/><text x="850" y="292" text-anchor="middle" class="t" font-size="14">Spring Boot</text>
+</g>
+
+<g>
+<rect x="90" y="390" width="470" height="200" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="120" y="430" class="t" font-size="30">🛡 Smart Helmet</text>
+<text x="120" y="465" class="s" font-size="18">Patent-published IoT safety project</text>
+<text x="120" y="495" class="s" font-size="18">Accident detection • GPS alerts</text>
+</g>
+
+<g>
+<rect x="640" y="390" width="470" height="200" rx="14" fill="#161b22" stroke="#30363d"/>
+<text x="670" y="430" class="t" font-size="30">🤖 AI Agents</text>
+<text x="670" y="465" class="s" font-size="18">Conversation • Personality • Matching</text>
+<text x="670" y="495" class="s" font-size="18">LLMs • Multi-agent workflows</text>
+</g>
+</svg>
