@@ -367,3 +367,151 @@ Improve
 > Build products that solve problems.
 
 Not products that only look impressive.
+
+---
+
+# SYSTEM MONITOR
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaryan170202&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryan170202&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aaryan170202&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaryan170202&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# ACHIEVEMENTS
+
+- 🧠 Founder of **Nocaps**
+- 🤖 Building AI-native compatibility systems
+- 📱 Android & iOS application development
+- ⚙️ Backend Engineer
+- ☕ Java & Spring Boot Developer
+- 📜 Published Patent
+- 🚀 Passionate about AI Agents & Human Behaviour
+
+---
+
+# CURRENT OBJECTIVES
+
+```text
+[██████████░░░░░░░░] Launch Nocaps Mobile App
+
+[████████░░░░░░░░░░] Scale Backend Architecture
+
+[███████████░░░░░░] AI Compatibility Engine
+
+[███████░░░░░░░░░░░] Open Source Contributions
+
+[████████████░░░░░] Crack Top Product Company
+```
+
+---
+
+# TERMINAL
+
+```bash
+guest@aaryan:~$ help
+
+whoami
+projects
+skills
+experience
+contact
+linkedin
+portfolio
+github
+clear
+sudo hire aaryan
+```
+
+---
+
+```bash
+guest@aaryan:~$ projects
+
+> Nocaps
+> Personal Budget Tracker
+> Smart Helmet
+> Enterprise Backend Systems
+```
+
+---
+
+```bash
+guest@aaryan:~$ sudo hire aaryan
+
+Password:
+
+**************
+
+Access Granted
+
+Loading...
+
+Excellent Choice 🙂
+```
+
+---
+
+# CONNECT
+
+<p align="center">
+
+<a href="https://github.com/Aaryan170202">
+GitHub
+</a>
+
+•
+
+<a href="https://linkedin.com/in/aaryanchipkar">
+LinkedIn
+</a>
+
+•
+
+<a href="https://www.nocaps.in">
+Nocaps
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting.
+
+```text
+SYSTEM LOGOUT
+
+Connection Closed
+
+See you again.
+
+██████████████████████
+```
+
+⭐ If you like my work, consider following my journey.
+
+</div>
