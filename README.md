@@ -1,4 +1,3 @@
-
 # AARYAN // SYSTEM
 
 > **Building AI that understands people.**
